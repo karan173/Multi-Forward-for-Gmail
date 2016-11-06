@@ -1,4 +1,3 @@
-
 ##Introduction
 [Multi Forward for Gmail](https://chrome.google.com/webstore/detail/multi-forward-for-gmail/jjmdplljmniahpamcmabdnahmjdlikpm/related) is a Chrome extension to forward multiple emails at once through the Gmail website. The extension currently has greater than 70K users on the Chrome web store.
 
@@ -11,6 +10,7 @@
 4. Authenticate if necessary.
 5. Enter the recipients.
 6. Click on the Multi-Forward button to forward the selected mails.
+7. Wait till the forward completes.
 
 Alternatively, see this tutorial [video](https://youtu.be/JYXCpS7KS_g)
 
@@ -37,6 +37,20 @@ While authentication the extension, the user must agree to grant the following p
 3. *Where should I report issues?*  
 Issues can be reported at the extension's [Github Page](https://github.com/karan173/Multi-Forward-for-Gmail/issues/new).
 
+##NOTES
+
+Some notes about this extension-  
+
+1. Whenever you forward a thread(a group of related emails clubbed together in Gmail) using this extension, the extension will forward the last/latest message of that thread. Since this may be confusing to some users, it is recommended that users [turn off the Conversation View in Gmail.](https://www.google.comsearch?q=gmail+turn+off+conversation+view)
+
+2. The extension adds the label multi-forward to the forwarded threads. This allows you to easily find the forwarded emails in the Gmail web interface.
+
+3. Currently, some inline images are not correctly rendered in forwarded emails. 
+
+4. In case some emails were not forward successfully, check Gmail's SENT folder to find which emails were forward successfully.
+
+##PRIVACY
+This extension is perfectly safe. The only data stored for each user is the no. of emails sent in the current day using the extension. This is done for better error reporting to the user.
 
 This extension is developed by karan173[at]gmail[dot]com.
 
