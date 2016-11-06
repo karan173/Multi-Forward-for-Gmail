@@ -16,12 +16,10 @@ Alternatively, see this tutorial [video](https://youtu.be/JYXCpS7KS_g)
 
 ##FAQs
 
-1. *Is there a daily limit on the number of emails one can forward using the extension.*
-
+1. Is there a daily limit on the number of emails one can forward using the extension.
 Yes. A total of about 100 mails can be forwarded in a day using this extension. This limit is imposed by Google itself. However, if you have a Google Apps for Work/Edu/Gov account, then you can forward about 1500 mails per day.
 
-2. *What permissions are necessary for this extension to work and why?*
-
+2. What permissions are necessary for this extension to work and why?
 While authentication the extension, the user must agree to grant the following permissions-
 
   a. View and manage your mail.
@@ -36,8 +34,7 @@ While authentication the extension, the user must agree to grant the following p
   d. View and manage data associated with the application.
   This is needed since the extension stores the number of emails you have sent in the current day for better error reporting.
 
-3. *Where should I report issues?*
-
+3. Where should I report issues?
 Issues can be reported at the extension's [Github Page](https://github.com/karan173/Multi-Forward-for-Gmail/issues/new).
 
 This extension is developed by karan173[at]gmail[dot]com.
