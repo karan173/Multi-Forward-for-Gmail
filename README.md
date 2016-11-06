@@ -1,8 +1,9 @@
 
+##Introduction
 [Multi Forward for Gmail](https://chrome.google.com/webstore/detail/multi-forward-for-gmail/jjmdplljmniahpamcmabdnahmjdlikpm/related) is a Chrome extension to forward multiple emails at once through the Gmail website. The extension currently has greater than 70K users on the Chrome web store.
 
 
-How To Use?
+##How To Use?
 
 1. Install the extension from the [Chrome webstore](https://chrome.google.com/webstore/detail/multi-forward-for-gmail/jjmdplljmniahpamcmabdnahmjdlikpm/related).
 2. Go to Gmail and select the mails to forward.
@@ -13,7 +14,7 @@ How To Use?
 
 Alternatively, see this tutorial [video](https://youtu.be/JYXCpS7KS_g)
 
-FAQs
+##FAQs
 
 1. Is there a daily limit on the number of emails one can forward using the extension.
 Yes. A total of about 100 mails can be forwarded in a day using this extension. This limit is imposed by Google itself. However, if you have a Google Apps for Work/Edu/Gov account, then you can forward about 1500 mails per day.
