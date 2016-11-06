@@ -11,6 +11,8 @@ How To Use?
 5. Enter the recipients.
 6. Click on the Multi-Forward button to forward the selected mails.
 
+Alternatively, see this tutorial [video](https://youtu.be/JYXCpS7KS_g)
+
 FAQs
 
 1. Is there a daily limit on the number of emails one can forward using the extension.
