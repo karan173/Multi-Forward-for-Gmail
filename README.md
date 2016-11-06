@@ -37,7 +37,7 @@ While authentication the extension, the user must agree to grant the following p
 3. *Where should I report issues?*  
 Issues can be reported at the extension's [Github Page](https://github.com/karan173/Multi-Forward-for-Gmail/issues/new).
 
-##NOTES
+##Notes
 
 Some notes about this extension-  
 
@@ -49,7 +49,7 @@ Some notes about this extension-
 
 4. In case some emails were not forward successfully, check Gmail's SENT folder to find which emails were forward successfully.
 
-##PRIVACY
+##Privacy
 This extension is perfectly safe. The only data stored for each user is the no. of emails sent in the current day using the extension. This is done for better error reporting to the user.
 
 This extension is developed by karan173[at]gmail[dot]com.
